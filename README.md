@@ -1,38 +1,32 @@
-# Python Basics
+# Python Programming 
 
-Welcome to my Python Basics repository!
+Welcome to my Python programming repository! 🐍
 
-This repository contains the Python programs I write while learning Python from the fundamentals. Each program focuses on understanding a core concept through hands-on practice.
+This repository documents my journey of learning and practicing Python.
+It contains programs, practice problems, and concepts that I work on while
+building my programming and problem-solving skills.
 
-## Topics Covered
+The repository is organized topic-wise so that my learning progress and
+practice work can be easily followed.
 
-- Hello World
-- Comments
-- Variables
-- Data Types
-- Input & Output
-- Type Casting
-- Arithmetic Operators
-- Relational Operators
-- Logical Operators
-- Assignment Operators
-- Identity & Membership Operators
-- Simple Practice Programs
+## 📚 Topics Covered
 
-## Objective
-
-- Build a strong foundation in Python.
-- Practice basic programming concepts.
-- Improve problem-solving skills.
-- Document my learning journey on GitHub.
-
-## Repository Structure
+- Python Basics
 
 
+## 📂 Repository Structure
 
-## About This Repository
-
-This repository is part of my programming learning journey. As I continue learning Python, I'll create separate repositories for topics such as conditionals, loops, functions, strings, lists, and more.
+```text
+Python-Programming/
+│
+├── 01-Basics/
+│   ├── README.md
+│   └── Python programs
+│
+├
+│
+└── README.md
+```text
 
 ---
 **Author:** Tanishka Chandra  

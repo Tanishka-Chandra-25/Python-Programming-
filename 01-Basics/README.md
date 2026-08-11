@@ -10,6 +10,13 @@ This folder contains programs based on the fundamental concepts of Python.
 - Data Types
 - Input and Output
 - Type Casting
+- Arithmetic Operators
+- Assignment Operators
+- Relational Operators
+- Logical Operators
+- Identity Operators
+- Membership Operators
+- Basic Practice Programs
 
 ## Programs
 

@@ -17,6 +17,11 @@ This folder contains programs based on the fundamental concepts of Python.
 - Identity Operators
 - Membership Operators
 - Basic Practice Programs
+- ~Swap Two Numbers(with and without third variable)
+- ~Total Marks and Average Marks
+- ~Area and Perimeter of Rectangle
+- ~Area and circumstance of Circle
+- ~Percentage Calculation 
 
 ## Programs
 
@@ -30,7 +35,7 @@ fundamental programming concepts.
 - Learn basic input and output operations.
 - Build a strong foundation for advanced Python concepts.
 
-## Learning Outcome
+## Learning Outco
 
 These programs helped me understand the fundamentals of Python
 and develop basic problem-solving skills.

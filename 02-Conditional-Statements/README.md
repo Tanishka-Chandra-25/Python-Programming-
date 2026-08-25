@@ -21,6 +21,7 @@ and decision-making.
 6. Write a program to check whether a year is a leap year.
 7. Write a program to assign grades based on marks.
 8. Write a program to check whether a character is a vowel or consonant.
+9. Write a program to implement a simple calculator using if-elif-else and match case.
 
 ## Objective
 

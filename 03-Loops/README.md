@@ -1,4 +1,4 @@
-# 04 - Loops
+# 03 - Loops
 
 This folder contains my C programs and practice problems based on **loops**.
 

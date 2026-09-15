@@ -2,7 +2,7 @@
 
 This folder contains my Python programs and practice problems based on **strings**.
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Creating and accessing strings
 - String indexing
@@ -15,7 +15,7 @@ This folder contains my Python programs and practice problems based on **strings
 - Checking characters and substrings
 - Formatting strings
 
-## 💻 Practice Programs
+## Practice Programs
 
 Some of the programs included in this folder:
 
@@ -23,7 +23,7 @@ Some of the programs included in this folder:
 
 
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 Through these programs, I am practicing:
 
@@ -34,7 +34,7 @@ Through these programs, I am practicing:
 - Solving string-based logical problems
 - Improving problem-solving skills
 
-## 📌 Progress
+## Progress
 
 - [ ] String basics
 - [ ] Indexing and slicing

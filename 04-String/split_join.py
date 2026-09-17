@@ -1,0 +1,5 @@
+s=input("Enter string:")
+sp=s.split()
+new='₹'.join(sp)
+print("The old string:",s)
+print("The new string:",new)

@@ -1,0 +1,5 @@
+s=input("Enter string:")
+u=s.upper()
+l=s.lower()
+print("String in uppercase:",u)
+print("String in lowercase:",l)

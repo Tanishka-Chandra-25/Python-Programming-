@@ -36,11 +36,11 @@ Through these programs, I am practicing:
 
 ## Progress
 
-- [ ] String basics
-- [ ] Indexing and slicing
-- [ ] String methods
-- [ ] String traversal
-- [ ] String-based problem solving
+- [X] String basics
+- [X] Indexing and slicing
+- [X] String methods
+- [X] String traversal
+- [X] String-based problem solving
 - [ ] Advanced string problems
 
 ---

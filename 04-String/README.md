@@ -19,7 +19,16 @@ This folder contains my Python programs and practice problems based on **strings
 
 Some of the programs included in this folder:
 
-1. 
+1. String Length
+2. Reverse String
+3. Palindrome String
+4. Count Vowels
+5. Count Words
+6. Uppercase and Lowercase
+7. Replace String
+8. Split String and Join String
+9. String Slicing
+10. Concatenatied String 
 
 
 

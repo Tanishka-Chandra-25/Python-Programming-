@@ -28,7 +28,8 @@ Some of the programs included in this folder:
 7. Replace String
 8. Split String and Join String
 9. String Slicing
-10. Concatenatied String 
+10. Concatenatied String
+11. Character Check
 
 
 

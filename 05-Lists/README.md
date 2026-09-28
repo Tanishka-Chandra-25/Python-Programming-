@@ -41,11 +41,11 @@ This folder contains basic Python programs for learning and practicing lists and
 
 ## Progress
 
-- [ ] List Basics
-- [ ] List Indexing
-- [ ] List Operations
-- [ ] List Methods
-- [ ] List Practice Programs
+- [X] List Basics
+- [X] List Indexing
+- [X] List Operations
+- [X] List Methods
+- [X] List Practice Programs
 
 ---
 

@@ -15,7 +15,22 @@ This folder contains basic Python programs for learning and practicing lists and
 
 ## Practice Programs
 
-1. 
+1. Create List
+2. Append
+3. Insert
+4. Remove
+5. Pop
+6. Sort
+7. Reverse
+8. Copy
+9. Merge List
+10. Largest and Smallest Element
+11. Sum of Elements
+12. Average
+13. Search Elements
+14. Count Occurrence
+15. Remove Duplicate
+16. List Comprehension
 
 ## Learning Objectives
 

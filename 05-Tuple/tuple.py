@@ -1,0 +1,6 @@
+t=()
+t1=(2,)
+t2=tuple([1,2,3,4])
+print(type(t))
+print(type(t1))
+print(type(t2))

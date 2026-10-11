@@ -13,6 +13,13 @@ This folder contains my Python programs and practice based on Dictionaries.
 - Nested dictionaries
 
 ## Programs
+1. Create Dictionary
+2. Add and Update Items in Dictionary
+3. Access and Delete Items in Dictionary
+4. Print Keys and Values of Dictionary
+5. Print Word Frequency
+6. Dictionary Sort
+7. Merge Dictionary 
 
 
 ## Learning Outcome
@@ -21,11 +28,10 @@ Learned how to create, access, modify, and traverse dictionaries in Python and u
 
 ## Progress
 
-- [ ] Dictionary Basics
-- [ ] Accessing Elements
-- [ ] Dictionary Methods
-- [ ] Adding and Updating Elements
-- [ ] Removing Elements
-- [ ] Dictionary Traversal
-- [ ] Nested Dictionaries
+- [X] Dictionary Basics
+- [X] Accessing Elements
+- [X] Dictionary Methods
+- [X] Adding and Updating Elements
+- [X] Removing Elements
+- [X] Dictionary Traversal
 - [ ] Practice Programs

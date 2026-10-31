@@ -34,11 +34,11 @@ Learned how to create and manipulate sets in Python and understood their unique 
 
 ## Progress
 
-- [ ] Set Basics
-- [ ] Adding and Removing Elements
-- [ ] Set Methods
-- [ ] Set Operations
-- [ ] Union and Intersection
-- [ ] Difference and Symmetric Difference
-- [ ] Subsets and Supersets
+- [X] Set Basics
+- [X] Adding and Removing Elements
+- [X] Set Methods
+- [X] Set Operations
+- [X] Union and Intersection
+- [X] Difference and Symmetric Difference
+- [X] Subsets and Supersets
 - [ ] Practice Programs
